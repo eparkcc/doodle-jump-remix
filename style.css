@@ -1,0 +1,28 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    background-image: url('background.png');
+    background-size: contain;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+    color: black;
+}
+
+.doodler {
+    width: 40px;
+    height: 75px;
+    background-image: url('basketball.jpeg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.platform {
+    width: 85px;
+    height: 80px;
+    background-image: url('hoop.jpeg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+}
